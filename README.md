@@ -1,7 +1,7 @@
 # Hisen's Heroes
 Ludum Dare 46 Game Jam!
 
-Play this half hour RPG to save Hisen, keep that world alive.
+Play this half hour RPG to save Hisen, to keep that world alive.
 
 
 ### Websites
