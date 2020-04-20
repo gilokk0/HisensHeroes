@@ -13,4 +13,4 @@ Ludum Dare: https://ldjam.com/events/ludum-dare/46/hisens-heroes
 
 itch.io: https://gilokko.itch.io/hisens-heroes
 
-Theme Music: https://soundcloud.com/gilokko/hisensherotheme0
+Hisen's Heroes Theme: https://soundcloud.com/gilokko/hisensherotheme0
