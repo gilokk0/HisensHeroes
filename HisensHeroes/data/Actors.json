@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"LilyLeaperBattler","characterIndex":0,"characterName":"Lily%(3)","classId":1,"equips":[1,1,0,3,0],"faceIndex":0,"faceName":"LilyLeaperFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lily","nickname":"Lily Leaper","note":"","profile":"Lily, the Hero."},
+{"id":2,"battlerName":"GuyranGenwoodBattler","characterIndex":0,"characterName":"Guyran%(3)","classId":2,"equips":[2,1,0,3,0],"faceIndex":0,"faceName":"GuyranGenwoodFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Guyran","nickname":"Guyran Genwood","note":"","profile":"Guyran, the Warrior."},
+{"id":3,"battlerName":"SarahSoaringtonBattler","characterIndex":0,"characterName":"Sarah%(3)","classId":3,"equips":[3,0,0,3,4],"faceIndex":0,"faceName":"SarahSoaringtonFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sarah","nickname":"Sarah Soarington","note":"","profile":"Sarah, the Mage."},
+{"id":4,"battlerName":"RogerRasingerBattler","characterIndex":0,"characterName":"Roger%(3)","classId":4,"equips":[4,0,0,3,4],"faceIndex":0,"faceName":"RogerRasingerFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roger","nickname":"Roger Rasinger","note":"","profile":"Roger, the Priest."}
+]
